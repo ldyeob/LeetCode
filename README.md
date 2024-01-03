@@ -4,3 +4,6 @@ int max = *max_element(v.begin(), v.end());
 int min = *min_element(v.begin(), v.end());
 
 ## C++ lamba 함수? C++ 11
+
+## count count_if
+1. int c = count(begin(s), end(s), '1')
