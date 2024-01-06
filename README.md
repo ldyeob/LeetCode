@@ -32,4 +32,7 @@ st는 코드에서 std::upper_bound 함수에 전달되는 찾고자 하는 값(
 ## 최대공약수
 1. https://leetcode.cn/problems/insert-greatest-common-divisors-in-linked-list/solutions/2593509/2807-zai-lian-biao-zhong-cha-ru-zui-da-g-p1ee/?envType=daily-question&envId=Invalid%20Date
 
-## 람다함수https://blockdmask.tistory.com/491****
+## 람다함수
+1. https://blockdmask.tistory.com/491****
+2. 람다함수는 함수내에서 정의 하고 사용가능ㅋㅋㅋ [&] 굿!
+3. https://learn.microsoft.com/ko-kr/cpp/cpp/lambda-expressions-in-cpp?view=msvc-170
