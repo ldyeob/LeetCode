@@ -7,3 +7,5 @@ int min = *min_element(v.begin(), v.end());
 
 ## count count_if
 1. int c = count(begin(s), end(s), '1')
+
+# *max_element(f, f + n) //f[]
