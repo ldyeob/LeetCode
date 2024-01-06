@@ -27,4 +27,4 @@ auto comp = [](const Type& a, const Type& b) -> bool {
     return st < job[1];
 });
 st는 코드에서 std::upper_bound 함수에 전달되는 찾고자 하는 값(상한 값)입니다. 여기서 st는 jobs[i - 1][0]로 초기화되었습니다
-
+二分查找[https://pic.leetcode-cn.com/1665548328-KtZhCm-image.png]
