@@ -10,4 +10,4 @@ int min = *min_element(v.begin(), v.end());
 
 # *max_element(f, f + n) //f[]
 
-# c++람다 함수 leetcode 300 심지어 람다 함수는함수안에 정의 가능?
+# c++람다 함수 leetcode 300 심지어 람다 함수는함수안에 정의 가능? 함수 객체
