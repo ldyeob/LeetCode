@@ -28,3 +28,6 @@ auto comp = [](const Type& a, const Type& b) -> bool {
 });
 st는 코드에서 std::upper_bound 함수에 전달되는 찾고자 하는 값(상한 값)입니다. 여기서 st는 jobs[i - 1][0]로 초기화되었습니다
 二分查找[https://leetcode.cn/problems/maximum-profit-in-job-scheduling/solutions/1886554/by-sao-hei-chu-e-wei-dang-yu-min-w5rc/]
+
+## 최대공약수
+1. https://leetcode.cn/problems/insert-greatest-common-divisors-in-linked-list/solutions/2593509/2807-zai-lian-biao-zhong-cha-ru-zui-da-g-p1ee/?envType=daily-question&envId=Invalid%20Date
