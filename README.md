@@ -1,4 +1,4 @@
-# leetcode-jilu
+# leetcode-jilu는
 erfenfa yidingyao kan lingshen 의 shipin yaoxuexi honglanransefa zuizhongyaode yidian 이미 파란 혹은 불루인 부분은 bubaohanzai qujiannei leetocde 162 154
 int max = *max_element(v.begin(), v.end());
 int min = *min_element(v.begin(), v.end());
@@ -36,3 +36,7 @@ st는 코드에서 std::upper_bound 함수에 전달되는 찾고자 하는 값(
 1. https://blockdmask.tistory.com/491****
 2. 람다함수는 함수내에서 정의 하고 사용가능ㅋㅋㅋ [&] 굿!
 3. https://learn.microsoft.com/ko-kr/cpp/cpp/lambda-expressions-in-cpp?view=msvc-170
+
+## dp 序列 DP
+1. https://leetcode.cn/problems/arithmetic-slices-ii-subsequence/solutions/928871/gong-shui-san-xie-xiang-jie-ru-he-fen-xi-ykvk/
+2. 
