@@ -46,3 +46,13 @@ WRL_NOTHROW inline void Swap(
    _Inout_ T& left,
    _Inout_ T& right
 );
+1. 실현방법1
+   "c++int tmp = s[i];
+    s[i] = s[j];
+    s[j] = tmp;
+   "
+   "c++ s[i] ^= s[j];
+s[j] ^= s[i];
+s[i] ^= s[j];""
+   
+
