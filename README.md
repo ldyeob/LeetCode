@@ -54,5 +54,5 @@ WRL_NOTHROW inline void Swap(
    "c++ s[i] ^= s[j];
 s[j] ^= s[i];
 s[i] ^= s[j];""
-   
+## reverse(v.begin(), v.begin() + 4)
 
