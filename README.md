@@ -55,4 +55,6 @@ WRL_NOTHROW inline void Swap(
 s[j] ^= s[i];
 s[i] ^= s[j];""
 ## reverse(v.begin(), v.begin() + 4)
+## [queue](https://life-with-coding.tistory.com/408)
+## [stack](https://life-with-coding.tistory.com/406)
 
