@@ -40,3 +40,9 @@ st는 코드에서 std::upper_bound 함수에 전달되는 찾고자 하는 값(
 ## dp 序列 DP
 1. https://leetcode.cn/problems/arithmetic-slices-ii-subsequence/solutions/928871/gong-shui-san-xie-xiang-jie-ru-he-fen-xi-ykvk/
 2. 
+
+## swap() 지정된 두 인수의 값을 교환합니다.
+WRL_NOTHROW inline void Swap(
+   _Inout_ T& left,
+   _Inout_ T& right
+);
