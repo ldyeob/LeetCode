@@ -1,4 +1,4 @@
-# leetcode-jilu는
+# leetcode-jilu는 2024.01.20부터 자바로 shuati
 erfenfa yidingyao kan lingshen 의 shipin yaoxuexi honglanransefa zuizhongyaode yidian 이미 파란 혹은 불루인 부분은 bubaohanzai qujiannei leetocde 162 154
 int max = *max_element(v.begin(), v.end());
 int min = *min_element(v.begin(), v.end());
@@ -72,3 +72,5 @@ s[i] ^= s[j];""
 观察二进制表示，您可以看到这两者只有第五位不同。通过与32（即 0010 0000）进行按位或操作，您可以将'A'转换为'a'。
 
 这种技巧在某些情况下是有用的，例如在实现字符串大小写转换函数时。
+
+
