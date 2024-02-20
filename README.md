@@ -75,3 +75,6 @@ s[i] ^= s[j];""
 
 # 645버킷 정렬桶排序 방법 한번 풀어야 된
 
+## yihuo
+- https://leetcode.cn/problems/missing-number/solutions/1086545/gong-shui-san-xie-yi-ti-wu-jie-pai-xu-ji-te3s/
+
