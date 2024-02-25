@@ -1,0 +1,1 @@
+https://algo.itcharge.cn/07.Tree/05.Union-Find/01.Union-Find/#_3-1-%E6%8C%89%E6%B7%B1%E5%BA%A6%E5%90%88%E5%B9%B6
